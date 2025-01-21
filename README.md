@@ -7,30 +7,26 @@
     <h1>美兆的訓練計畫</h1>
     <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_600,w_800,f_auto,q_auto/6854615/492705_919805.jpeg" alt="online">
     <hr>
-    <p>臀🍑</p>
-    <p>熱身：</p>
-    <p>左右甩壺鈴8kgx左10下</p>
-    <p>左右甩壺鈴8kgx右10下</p>
-    <p>左右甩壺鈴8kgx左右5下</p>
-    <p>臀🍑</p>
-    <p>A.臀推110KG 10x4 </p>
-    <p>B.槓鈴深蹲(全行程)8x3</p>
-    <p>C.槓鈴RDL 8x3</p>
-    <p>D.空槓分腿蹲10x3</p>
+    <p>臀🍑動態伸展</p>
+    <p>四足跪姿(同側) 10x2</p>
+    <p>單腳髖屈 10x2</p>
+    <p>軀幹旋轉&髖外轉10x3</p>
+    <p>臀🍑訓練</p>
+    <p>A.硬舉6x3</p>
+    <p>B.深蹲6x3</p>
+    <p>C.RDL 8x3</p>
     <hr>
 </body>
 </html>
-  <p>背🐚</p>
-<p>A.引體向上 3x3<p>
-<p>B.槓鈴划船 6-8x3<p>
-<p>C.啞鈴划船 6-8x3<p>
-<p>D.單邊cable後束 8x3<p>
-    <hr>
-   <p>肩🎃</p>
-<p>A.啞鈴肩推6x3</p>
-<p>C.啞鈴飛鳥(側束)10x3</p>
-<p>D.啞鈴前平舉(前束)10x3</p>
-<p>E.Facepull 8x3</p>
+  <p>肩背🎃🐚動態伸展</p>
+<p>A.肩甲內外 15x2<p>
+<p>B.肩胛前後 15x2<p>
+<p>C.全世界最好的伸展5x3<p>
+   <p>肩背🎃🐚訓練</p>
+<p>A.槓鈴划船6x3</p>
+<p>C.坐姿划船8x3</p>
+<p>D.啞鈴肩推6x3x3</p>
+<p>E.cable後束6x3</p>
    <hr>
   <p>恢復1-功能訓練🏝</p>
 <p>A.死蟲旋轉 4-6x3<p>
