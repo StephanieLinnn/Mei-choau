@@ -8,9 +8,9 @@
     <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_600,w_800,f_auto,q_auto/6854615/492705_919805.jpeg" alt="online">
     <hr>
     <p>臀🍑動態伸展</p>
-    <p>四足跪姿(同側) 10x2</p>
-    <p>單腳髖屈 10x2</p>
-    <p>軀幹旋轉&髖外轉10x3</p>
+    <p>A.四足跪姿(同側) 10x2</p>
+    <p>B.單腳髖屈 10x2</p>
+    <p>C.軀幹旋轉&髖外轉10x3</p>
     <p>臀🍑訓練</p>
     <p>A.硬舉6x3</p>
     <p>B.深蹲6x3</p>
